@@ -1,0 +1,25 @@
+body {
+    background-color: #d6f3ee;
+}
+
+hr {
+
+    border-style: dotted none none;
+    border-color: rgba(167, 167, 167, 0.48);
+    border-width: 5px;
+    width: 3%;
+}
+
+img {
+    shape-outside: circle(50%);
+
+    clip-path: circle(7rem at 8rem 8rem);
+}
+h1,h3{
+    color: #05BFDB;
+}
+h1{
+   
+        font-family: math;
+      
+}
